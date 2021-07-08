@@ -1,0 +1,4 @@
+websockets
+psycopg2
+aiopg
+requests
