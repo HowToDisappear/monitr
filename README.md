@@ -9,4 +9,4 @@ I suggest using venv or container for the set up for your convinience.
 
 Now you are all set and ready.
 ### Usage
-Just run ```core.py``` in your terminal, you will see several status messages and market data will start floating into your postgres database. You can access it live with psql tool or programmatically through a script or another app (you can try out our short example_access.py).
+Just run ```core.py``` in your terminal, you will see several status messages and market data will start floating into your postgres database. You can access it live with psql tool or programmatically through a script or another app (you can try out our short ```example_access.py```). Script is stopped normally by ```Ctrl-C```. 
